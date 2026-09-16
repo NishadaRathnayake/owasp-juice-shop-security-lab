@@ -35,3 +35,8 @@ considered during later security testing.
 
 The command output was captured from the locally hosted OWASP Juice Shop
 application running on localhost:3000.
+## Evidence
+
+The following screenshot shows the WhatWeb scan performed against the locally hosted OWASP Juice Shop application.
+
+![WhatWeb scan result](whatweb-scan.png)
